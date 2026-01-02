@@ -1,0 +1,63 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover" />
+    <title>Hanif Foods & Caterers | Authentic Pakistani Cuisine</title>
+    <meta name="description" content="Order delicious Pakistani food from Hanif Foods. Biryani, BBQ, Karahi & more. Fast delivery. Order on WhatsApp.">
+    <meta name="author" content="Hanif Foods & Caterers" />
+
+    <!-- Favicon -->
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon.png">
+
+    <!-- PWA Manifest -->
+    <link rel="manifest" href="/manifest.json">
+    <link rel="apple-touch-icon" href="/src/assets/food/logo.png">
+    <meta name="theme-color" content="#b91c1c">
+    <meta name="mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-title" content="Hanif Foods">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+
+    <meta property="og:title" content="Hanif Foods & Caterers - Authentic Pakistani Cuisine" />
+    <meta property="og:description" content="Order delicious Pakistani food from Hanif Foods. Biryani, BBQ, Karahi & more. Fast delivery. Order on WhatsApp." />
+    <meta property="og:type" content="website" />
+    <meta property="og:image" content="/src/assets/food/biryani.jpg">
+
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:site" content="@haniffoods" />
+    <meta name="twitter:image" content="/src/assets/food/biryani.jpg">
+  </head>
+
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+    <script>
+      (function() {
+        var whatsapp_settings = {
+          buttonName: 'Welcome to Hanif foods',
+          brandImageUrl: '/src/assets/food/logo.png',
+          brandName: 'Hanif foods',
+          brandStatusText: 'Typically replies within a day',
+          buttonSize: 'medium',
+          buttonPosition: 'bottom-right',
+          phoneNumber: '3242524303',
+          welcomeMessage: 'Welcome to Hanif foods!',
+          prefillMessages: 'Hello, I\'d like to place an order from Hanif Foods',
+          replyOptions: 'Order food.,complaint and services.'
+        };
+        var script = document.createElement('script');
+        script.src = 'https://oweb.zohowebstatic.com/sites/oweb/js/r/whatsapp-widget-generator.js';
+        script.async = true;
+        script.onload = function() {
+          if (typeof widget_whatsappButton === 'function') {
+            widget_whatsappButton(whatsapp_settings);
+          } else {
+            console.error('WhatsApp Widget function could not be found after script load.');
+          }
+        };
+        document.body.appendChild(script);
+      })();
+    </script>
+  </body>
+</html>

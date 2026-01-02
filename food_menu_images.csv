@@ -1,0 +1,130 @@
+id,name,image,category
+bbq1,Bihari Tikka,bihari-tikka.jpg,BBQ
+bbq2,Malai Tikka,malai-tikka.jpg,BBQ
+bbq3,Balochi Tikka,balochi-tikka.jpg,BBQ
+bbq4,Labneese Boti/Girll,labneese-boti.jpg,BBQ
+bbq5,Beef Bihari Boti,beef-bihari-boti.jpg,BBQ
+bbq6,Afghani Boti,afghani-boti.jpg,BBQ
+bbq7,Chatakh Boti,chatakh-boti.jpg,BBQ
+bbq8,Shashlik Boti,shashlik-boti.jpg,BBQ
+bbq9,Morican Boti,morican-boti.jpg,BBQ
+bbq10,Dhaga Kabab,dhaga-kabab.jpg,BBQ
+bbq11,Seekh Kabab,seekh-kabab.jpg,BBQ
+bbq12,Turkish Kabab,turkish-kabab.jpg,BBQ
+bbq13,Hunzai Kabab,hunzai-kabab.jpg,BBQ
+bbq14,Angara Kabab,angara-kabab.jpg,BBQ
+bbq15,Nalki Kabab,nalki-kabab.jpg,BBQ
+bbq16,Chaska Kabab,chaska-kabab.jpg,BBQ
+bbq17,Chicken Cheese Kabab,chicken-cheese-kabab.jpg,BBQ
+bbq18,Mutton Chanp Grill,mutton-chanp-grill.jpg,BBQ
+bbq19,Prawns BBQ,prawns-bbq.jpg,BBQ
+bbq20,Grilled Fish,grilled-fish.jpg,BBQ
+bbq21,Chicken Steam,chicken-steam.jpg,BBQ
+bbq22,Mutton Steam,mutton-steam.jpg,BBQ
+cur1,Qorma / Badami Qorma,qorma.jpg,Curries
+cur2,White Qorma,white-qorma.jpg,Curries
+cur3,Kunna Paya,kunna-paya.jpg,Curries
+cur4,Achar Gosht,achar-gosht.jpg,Curries
+cur5,Green Stew,green-stew.jpg,Curries
+cur6,Hari Mirch Qeema,hari-mirch-qeema.jpg,Curries
+cur7,Dum Qeema,dum-qeema.jpg,Curries
+cur8,Palak Paneer,palak-paneer.jpg,Curries
+cur9,Koftay,koftay.jpg,Curries
+cur10,Shab Daig,shab-daig.jpg,Curries
+cur11,Karahi,beef-karahi.jpg,Curries
+cur12,Green Karahi,green-karahi.jpg,Curries
+cur13,White Karahi,white-karahi.jpg,Curries
+cur14,Butter Karahi,butter-karahi.jpg,Curries
+cur15,Tikka Karahi,tikka-karahi.jpg,Curries
+cur16,Balochi Karahi,balochi-karahi.jpg,Curries
+cur17,Chicken Makhni Handi,chicken-makhni-handi.jpg,Curries
+cur18,Chicken White Handi,chicken-white-handi.jpg,Curries
+cur19,Haleem Beef & Chicken,haleem.jpg,Curries
+fry1,Broast,broast.jpg,Fry
+fry2,Chargha Broast,chargha-broast.jpg,Fry
+fry3,Chicken Ala Kiev,chicken-ala-kiev.jpg,Fry
+fry4,Chicken Cordon Bleu,chicken-cordon-bleu.jpg,Fry
+fry5,Fish Biscuit,fish-biscuit.jpg,Fry
+fry6,Fish Lahori,fish-lahori.jpg,Fry
+fry7,Prawn Tempura,prawn-tempura.jpg,Fry
+fry8,Arabian Puff,arabian-puff.jpg,Fry
+fry9,Chicken Cheese Strips,chicken-cheese-strips.jpg,Fry
+fry10,Toffe Kabab,toffe-kabab.jpg,Fry
+fry11,Chapli Kabab,chapli-kabab.jpg,Fry
+fry12,Chicken Cheese Cone,chicken-cheese-cone.jpg,Fry
+fry13,Peri Bite,peri-bite.jpg,Fry
+fry14,Mint Roll,mint-roll.jpg,Fry
+fry15,Wonton,wonton.jpg,Fry
+fry16,Chicken/Beef Samosa,chicken-beef-samosa.jpg,Fry
+fry17,Spring Roll,spring-roll.jpg,Fry
+fry18,Chicky Micky,chicky-micky.jpg,Fry
+fry19,Chicken Dynamite,chicken-dynamite.jpg,Fry
+fry20,Chicken Pocket,chicken-pocket.jpg,Fry
+fry21,Chicken Jalapeno,chicken-jalapeno.jpg,Fry
+chi1,Chicken Chilli,chicken-chilli.jpg,Chinese
+chi2,Chicken / Beef Dry,chicken-beef-dry.jpg,Chinese
+chi3,Chicken Jalfrezi,chicken-jalfrezi.jpg,Chinese
+chi4,Chicken Manchurian,chicken-manchurian.jpg,Chinese
+chi5,Szehwan Chicken,szehwan-chicken.jpg,Chinese
+chi6,Lemon Chicken,lemon-chicken.jpg,Chinese
+chi7,Kung Pao Chicken,kung-pao-chicken.jpg,Chinese
+liv1,Koyla Karahi,koyla-karahi.jpg,Live Cuisine
+liv2,Kashmiri Karahi,kashmiri-karahi.jpg,Live Cuisine
+liv3,Shinwari Karahi,shinwari-karahi.jpg,Live Cuisine
+liv4,Mughlai Karahi,mughlai-karahi.jpg,Live Cuisine
+liv5,Chicken White Handi,chicken-white-handi.jpg,Live Cuisine
+liv6,Chicken Paneer Reshmi Handi,chicken-paneer-reshmi-handi.jpg,Live Cuisine
+liv7,Singapori Rice,singapori-rice.jpg,Live Cuisine
+liv8,Tawa Fish,tawa-fish.jpg,Live Cuisine
+liv9,Karakat,karakat.jpg,Live Cuisine
+des1,Zarda (Special),zarda.jpg,Desserts
+des2,Rabri Kheer / Pista Rabri Kheer,rabri-kheer.jpg,Desserts
+des3,Lab-e-Shireen,lab-e-shireen.jpg,Desserts
+des4,Cream Cocktail (Vanilla & Mango),cream-cocktail.jpg,Desserts
+des5,Ice Cocktail,ice-cocktail.jpg,Desserts
+des6,Cherry Crunch Cocktail,cherry-crunch-cocktail.jpg,Desserts
+des7,Doodh Dulari,doodh-dulari.jpg,Desserts
+des8,Alaska (Vanilla & Mango),alaska.jpg,Desserts
+des9,Fruit Trifle,fruit-trifle.jpg,Desserts
+des10,Mango Delight,mango-delight-dessert.jpg,Desserts
+des11,Shahi Tukra,shahi-tukra.jpg,Desserts
+des12,Dessert Bar (Continental),dessert-bar-continental.jpg,Desserts
+des13,Pineapple Rassgulla,pineapple-rassgulla.jpg,Desserts
+des14,Gajar Halwa,gajar-halwa.jpg,Desserts
+des15,Loki Halwa,loki-halwa.jpg,Desserts
+des16,Dry Fruit Halwa,dry-fruit-halwa.jpg,Desserts
+des17,Rasmalai (Small),rasmalai.jpg,Desserts
+des18,Gulab Jamun,gulab-jamun.jpg,Desserts
+des19,Special Suji Halwa,suji-halwa.jpg,Desserts
+ice1,Roasted Almond Ice Cream,roasted-almond-ice-cream.jpg,Ice Cream
+ice2,Cisilion Ice Cream,cisilion-ice-cream.jpg,Ice Cream
+ice3,Strawberry Cheese Cake,strawberry-cheese-cake.jpg,Ice Cream
+ice4,Mango Ice Cream,mango-ice-cream.jpg,Ice Cream
+ice5,Badam Zafran Ice Cream,badam-zafran-ice-cream.jpg,Ice Cream
+ice6,Rose Malai Ice Cream,rose-malai-ice-cream.jpg,Ice Cream
+ice7,Gateau Cake Ice Cream,gateau-cake-ice-cream.jpg,Ice Cream
+ice8,Cream Casata (Ice Cake),cream-casata-ice-cake.jpg,Ice Cream
+ice9,Mango Delight (Ice Cake),mango-delight-ice-cake.jpg,Ice Cream
+ice10,Oreo Delight (Ice Cake),oreo-delight-ice-cake.jpg,Ice Cream
+ice11,Temptation (Ice Cake),temptation-ice-cake.jpg,Ice Cream
+ice12,Fruit Alaska (Ice Cake),fruit-alaska-ice-cake.jpg,Ice Cream
+ice13,Baked Alaska (Ice Cake),baked-alaska-ice-cake.jpg,Ice Cream
+ice14,Crunch Kulfi,crunch-kulfi.jpg,Ice Cream
+ice15,Mango Kulfi,mango-kulfi.jpg,Ice Cream
+ice16,Badam Zafran Kulfi,badam-zafran-kulfi.jpg,Ice Cream
+ice17,Khoya Kulfi,khoya-kulfi.jpg,Ice Cream
+bar1,Fruit Bar,fruit-bar.jpg,Bars
+bar2,Salad Bar (12 & 16 Bowls),salad-bar-12-16-bowls.jpg,Bars
+bar3,Salad Bar (Ice Box Stainless Steel),salad-bar-ice-box.jpg,Bars
+bar4,Italian Bar,italian-bar.jpg,Bars
+db1,Dessert Bar (8 Items),dessert-bar-8-items.jpg,Dessert Bar
+db2,Diamond Dessert Bar with Chocolate Fountain,diamond-dessert-bar.jpg,Dessert Bar
+db3,SP Dessert Bar with Waffle Ice Cream (Live),sp-dessert-bar.jpg,Dessert Bar
+ref1,Chana Chat with SP Spices,chana-chat.jpg,Refreshments
+ref2,Dahi Baray with Crackers,dahi-baray.jpg,Refreshments
+ref3,SP Gol Gappay,gol-gappay.jpg,Refreshments
+ref4,Fresh Juices & Moctail,fresh-juices.jpg,Refreshments
+ref5,SP Limca Stall (Many Flavours),limca-stall.jpg,Refreshments
+ref6,"Tea, Green Tea & Dood Patti Chai",tea-chai.jpg,Refreshments
+ref7,Coffee / Cappuccino & Many More,coffee-cappuccino.jpg,Refreshments
+ref8,Pan Stall,pan-stall.jpg,Refreshments

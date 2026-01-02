@@ -1,0 +1,25 @@
+{
+  "name": "Hanif Foods & Caterers",
+  "short_name": "Hanif Foods",
+  "description": "Order delicious Pakistani food from Hanif Foods. Biryani, BBQ, Karahi & more.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f8fafc",
+  "theme_color": "#b91c1c",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/src/assets/food/logo.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/src/assets/food/logo.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "categories": ["food", "restaurant", "delivery"],
+  "lang": "en",
+  "dir": "ltr"
+}
